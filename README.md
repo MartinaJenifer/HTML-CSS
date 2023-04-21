@@ -30,3 +30,4 @@ This page helps the users with any queries or issues that they face while their 
 This contains the news of the game and provides any updates that are available to the users so that they can stay updated.
 
 Explanation of the project:
+https://www.loom.com/share/a7cacdfd77cb4299aaa063adcbe1d197
